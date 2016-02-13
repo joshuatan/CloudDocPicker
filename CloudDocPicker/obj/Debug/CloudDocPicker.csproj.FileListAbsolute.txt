@@ -1,0 +1,204 @@
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\csc.exe
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\vbc.exe
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\VBCSCompiler.exe
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\CloudDocPicker.dll.config
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\CloudDocPicker.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\CloudDocPicker.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Antlr3.Runtime.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\EntityFramework.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\EntityFramework.SqlServer.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Google.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Newtonsoft.Json.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Owin.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\System.Web.Optimization.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\System.Web.Providers.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\WebGrease.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\System.Web.Optimization.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Antlr3.Runtime.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Newtonsoft.Json.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\EntityFramework.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\EntityFramework.SqlServer.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\System.Web.Providers.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Google.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\obj\Debug\CloudDocPicker.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\obj\Debug\CloudDocPicker.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\obj\Debug\CloudDocPicker.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\CdpLibrary.dll
+c:\users\joshua\documents\visual studio 2015\Projects\CloudDocPicker\bin\CdpLibrary.pdb
+D:\API\Project\CloudDocPicker\bin\roslyn\csc.exe
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\API\Project\CloudDocPicker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\API\Project\CloudDocPicker\bin\roslyn\System.Collections.Immutable.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\System.Reflection.Metadata.dll
+D:\API\Project\CloudDocPicker\bin\roslyn\vbc.exe
+D:\API\Project\CloudDocPicker\bin\roslyn\VBCSCompiler.exe
+D:\API\Project\CloudDocPicker\bin\roslyn\VBCSCompiler.exe.config
+D:\API\Project\CloudDocPicker\bin\CloudDocPicker.dll.config
+D:\API\Project\CloudDocPicker\bin\CloudDocPicker.dll
+D:\API\Project\CloudDocPicker\bin\CloudDocPicker.pdb
+D:\API\Project\CloudDocPicker\bin\Antlr3.Runtime.dll
+D:\API\Project\CloudDocPicker\bin\AspNet.ScriptManager.bootstrap.dll
+D:\API\Project\CloudDocPicker\bin\AspNet.ScriptManager.jQuery.dll
+D:\API\Project\CloudDocPicker\bin\CdpLibrary.dll
+D:\API\Project\CloudDocPicker\bin\EntityFramework.dll
+D:\API\Project\CloudDocPicker\bin\EntityFramework.SqlServer.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Google.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.ScriptManager.WebForms.dll
+D:\API\Project\CloudDocPicker\bin\Microsoft.Web.Infrastructure.dll
+D:\API\Project\CloudDocPicker\bin\Owin.dll
+D:\API\Project\CloudDocPicker\bin\System.Web.Optimization.dll
+D:\API\Project\CloudDocPicker\bin\System.Web.Providers.dll
+D:\API\Project\CloudDocPicker\bin\WebGrease.dll
+D:\API\Project\CloudDocPicker\bin\Newtonsoft.Json.dll
+D:\API\Project\CloudDocPicker\bin\CdpLibrary.pdb
+D:\API\Project\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\API\Project\CloudDocPicker\bin\System.Web.Optimization.xml
+D:\API\Project\CloudDocPicker\bin\Antlr3.Runtime.pdb
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\API\Project\CloudDocPicker\bin\EntityFramework.xml
+D:\API\Project\CloudDocPicker\bin\EntityFramework.SqlServer.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\API\Project\CloudDocPicker\bin\System.Web.Providers.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Google.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\API\Project\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.xml
+D:\API\Project\CloudDocPicker\bin\Newtonsoft.Json.xml
+D:\API\Project\CloudDocPicker\obj\Debug\CloudDocPicker.csprojResolveAssemblyReference.cache
+D:\API\Project\CloudDocPicker\obj\Debug\CloudDocPicker.dll
+D:\API\Project\CloudDocPicker\obj\Debug\CloudDocPicker.pdb
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\csc.exe
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\vbc.exe
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\VBCSCompiler.exe
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\CloudDocPicker.dll.config
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\CloudDocPicker.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\CloudDocPicker.pdb
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Antlr3.Runtime.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\AspNet.ScriptManager.bootstrap.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\AspNet.ScriptManager.jQuery.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\CdpLibrary.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\EntityFramework.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\EntityFramework.SqlServer.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.ScriptManager.WebForms.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Owin.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\System.Web.Optimization.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\System.Web.Providers.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\WebGrease.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Newtonsoft.Json.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\CdpLibrary.pdb
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\System.Web.Optimization.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Antlr3.Runtime.pdb
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\EntityFramework.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\EntityFramework.SqlServer.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\System.Web.Providers.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\bin\Newtonsoft.Json.xml
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\obj\Debug\CloudDocPicker.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\obj\Debug\CloudDocPicker.dll
+D:\GitHub_Repository\CloudDocPicker\CloudDocPicker\obj\Debug\CloudDocPicker.pdb

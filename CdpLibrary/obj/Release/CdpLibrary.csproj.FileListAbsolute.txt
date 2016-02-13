@@ -1,0 +1,7 @@
+D:\API\Project\CdpLibrary\bin\Release\CdpLibrary.dll
+D:\API\Project\CdpLibrary\bin\Release\CdpLibrary.pdb
+D:\API\Project\CdpLibrary\bin\Release\Newtonsoft.Json.dll
+D:\API\Project\CdpLibrary\bin\Release\Newtonsoft.Json.xml
+D:\API\Project\CdpLibrary\obj\Release\CdpLibrary.dll
+D:\API\Project\CdpLibrary\obj\Release\CdpLibrary.pdb
+D:\API\Project\CdpLibrary\obj\Release\CdpLibrary.csprojResolveAssemblyReference.cache
